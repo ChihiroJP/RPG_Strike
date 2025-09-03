@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.20)
+project(RPG_Game CXX)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+add_executable(RPG_Game src/main.cpp src/Renderer.cpp src/Player.cpp src/Bullet.cpp src/Enemy.cpp src/Map.cpp)
