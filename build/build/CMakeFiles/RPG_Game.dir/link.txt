@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/RPG_Game.dir/src/main.cpp.o -o RPG_Game  -luser32.lib -lgdi32.lib -ld3d11.lib -ldxgi.lib -ld3dcompiler.lib
